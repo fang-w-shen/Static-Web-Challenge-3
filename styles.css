@@ -1,0 +1,20 @@
+a:active {
+	margin-left:1em;
+	margin-right:1em;
+}
+
+a:hover {
+	color:red;
+	background-color: black;
+}
+
+.show {
+	position:fixed;
+	top: 0;
+	background-color: black;
+	width: 100%;
+}
+.hidden {
+	visibility:hidden;
+	margin-bottom:2em;
+}
